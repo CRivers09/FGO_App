@@ -1,0 +1,6 @@
+{
+    "python.workspaceSymbols.tagFilePath": "${workspaceFolder}/db/.vscode/tags",
+    "python.linting.pylintPath": "",
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "env\\Scripts\\python.exe"
+}

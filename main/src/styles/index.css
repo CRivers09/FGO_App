@@ -1,0 +1,23 @@
+body {
+    background-image: url("../img/bg.jpg");
+    background-repeat: repeat;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+div .container {
+    background: rgba(128, 204, 255, 0.5);
+}
+tr > th, td {
+    text-align: center;
+}
+tbody > tr > th, td {
+    background: lightslategray;
+}
+table > caption {
+    color: black;
+    caption-side: top;
+}
+nav {
+    background: linear-gradient(to bottom, #3366cc 95%, #000066 100%);
+}
